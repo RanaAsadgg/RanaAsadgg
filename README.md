@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NotRana&show_icons=true&locale=en" alt="RanaAsad" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NotRana&show_icons=true&locale=en&layout=compact" alt="dadevguy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NotRana&show_icons=true&locale=en&layout=compact" alt="notrana" /></p>
