@@ -4,20 +4,20 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Music Bot**
+- 🔭 I’m currently working on **Blog Website**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **DiscordJS**
+- 👯 I’m looking to collaborate on **DiscordPY**
 
-- 🤝 I’m looking for help with **express**
+- 🤝 I’m looking for help with **Flask**
 
-- 📫 How to reach me **Reach Me On Discord `!    Rana Asadᴰᵉⱽ    !#5925`**
+- 📫 How to reach me **Reach Me On Discord `rana.exe`**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ranaasadgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dadevguy_" height="30" width="40" /></a>
-<a href="https://instagram.com/ranaasadgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masked_ehan" height="30" width="40" /></a>
+<a href="https://instagram.com/notrana12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masked_ehan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Not Rana" height="30" width="40" /></a>
 <a href="https://dsc.gg/tce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rbjXSMFBqn" height="30" width="40" /></a>
 </p>
