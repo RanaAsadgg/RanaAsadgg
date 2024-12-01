@@ -9,7 +9,7 @@ i am a full-stack developer. I love doing projects.
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [My Portflolio](http://notrana.is-a.dev)
 * ✉️  You can contact me at [notrana1122@outlook.com](mailto:notrana1122@outlook.com)
-* 🚀  I'm currently working on [My Own Portfolio](http://notrana.is-a.dev)
+* 🚀  I'm currently working on [Thread Cline](http://notrana.is-a.dev)
 * 🧠  I'm learning JS, ReactJS, NodeJS, Express
 * ⚡  Also love burger
 
